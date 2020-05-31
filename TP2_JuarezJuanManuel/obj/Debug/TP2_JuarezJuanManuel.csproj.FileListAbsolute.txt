@@ -1,0 +1,80 @@
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe.config
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csprojAssemblyReference.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.Properties.Resources.resources
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.GenerateResource.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmAltaArticulo.resources
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Dominio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Negocio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Dominio.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Negocio.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CopyComplete
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmListarArticulos.resources
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmInicio.resources
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmModificarArticulo.resources
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmEliminarArticulo.resources
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmBusquedaArticulo.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe.config
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Dominio.dll
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Negocio.dll
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Dominio.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\bin\Debug\Negocio.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csprojAssemblyReference.cache
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmBusquedaArticulo.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmEliminarArticulo.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmInicio.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmAltaArticulo.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmListarArticulos.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmModificarArticulo.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.Properties.Resources.resources
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.GenerateResource.cache
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CopyComplete
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe.config
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Dominio.dll
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Negocio.dll
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Dominio.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Negocio.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csprojAssemblyReference.cache
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmBusquedaArticulo.resources
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmEliminarArticulo.resources
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmInicio.resources
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmAltaArticulo.resources
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmListarArticulos.resources
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmModificarArticulo.resources
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.Properties.Resources.resources
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.GenerateResource.cache
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CopyComplete
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe.config
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\TP2_JuarezJuanManuel.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Dominio.dll
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Negocio.dll
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Dominio.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\bin\Debug\Negocio.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csprojAssemblyReference.cache
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmBusquedaArticulo.resources
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmEliminarArticulo.resources
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmInicio.resources
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmAltaArticulo.resources
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmListarArticulos.resources
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.frmModificarArticulo.resources
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.Properties.Resources.resources
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.GenerateResource.cache
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CoreCompileInputs.cache
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.csproj.CopyComplete
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.exe
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\TP2_JuarezJuanManuel\obj\Debug\TP2_JuarezJuanManuel.pdb

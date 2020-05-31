@@ -1,0 +1,36 @@
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Dominio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Dominio.dll
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\bin\Debug\Dominio.dll
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\bin\Debug\Negocio.dll
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\bin\Debug\Dominio.dll
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\bin\Debug\Dominio.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.dll
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Negocio\obj\Debug\Negocio.pdb

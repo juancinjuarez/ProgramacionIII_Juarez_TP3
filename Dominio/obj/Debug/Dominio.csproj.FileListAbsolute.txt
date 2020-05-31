@@ -1,0 +1,24 @@
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juancin\source\repos\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juancin\ProgramacionIII\TP2_JuarezJuanManuel2020\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juancin\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\bin\Debug\Dominio.dll
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\bin\Debug\Dominio.pdb
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.dll
+C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.pdb
