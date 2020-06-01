@@ -24,6 +24,7 @@
                     <th scope="col">Nombre de articulo</th>
                     <th scope="col">Descripcion</th>
                     <th scope="col">Precio</th>
+                    <th scope="col">Eliminar</th>
                 </tr>
             </thead>
             <tbody>
@@ -33,12 +34,23 @@
                             <td><%#Eval("Nombre") %></td>
                             <td><%#Eval("Descripcion")%></td>
                             <td><%#Eval("Precio")%></td>
+                            <td>
+                                <asp:Button ID="btnQuitar" CssClass="btn btn-primary" Text="Quitar" CommandName="QuitarArticulo" CommandArgument='<%#Eval("Codigo") %>'
+                                    runat="server" OnClick="btnQuitar_Click" />
+                            </td>
                         </tr>
                     </ItemTemplate>
                 </asp:Repeater>
             </tbody>
         </table>
-
+        <table class="table">
+            <thead>
+                <tr>
+                    <asp:Label ID="lblPrecio" Text="TOTAL A PAGAR: $" runat="server" />
+                </tr>
+            </thead>
+        </table>
+        <asp:Button ID="btnVolver" Text="VOLVER" runat="server" OnClick="btnVolver_Click" />
     </form>
 </body>
 </html>

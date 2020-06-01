@@ -64,7 +64,7 @@ namespace TP2_JuarezJuanManuel
                 nuevo.Marca = (MarcaDominio)cbxMarca.SelectedItem;
                 nuevo.Categoria = (CategoriaDominio)cbxCategoria.SelectedItem;
                 nuevo.ImagenURL = txtImagen.Text.Trim();
-                nuevo.Precio = decimal.Parse(txtPrecio.Text);
+                nuevo.Precio = float.Parse(txtPrecio.Text);
 
                 negocio.agregar(nuevo); 
 

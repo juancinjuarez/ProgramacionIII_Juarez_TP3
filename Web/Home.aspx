@@ -13,8 +13,11 @@
 </head>
 <body>
     <form id="form1" runat="server">
-
-        <div class="card-row" style="width: 20rem;">
+        <header>
+            <asp:Label runat="server" Text="LISTADO DE ARTICULOS">
+            </asp:Label>
+        </header>
+        <section class="card-columns" style="margin-left: 10px; margin-right: 10px;">
             <asp:Repeater runat="server" ID="articulosRepeater">
                 <ItemTemplate>
                     <div class="card">
@@ -23,14 +26,14 @@
                             <h5 class="card-title"><%#Eval("Nombre")%></h5>
                             <p class="card-text"><%#Eval("Descripcion")%></p>
                             <p class="card-text"><%#Eval("Precio")%></p>
+                            <asp:Button ID="btnAgregarArticulo" CssClass="btn btn-primary" Text="Agregar al carrito" CommandArgument='<%#Eval("Codigo") %>'
+                                CommandName="articuloSeleccionado" runat="server" OnClick="btnAgregarArticulo_Click" />
                         </div>
-                        <asp:Button ID="btnAgregarArticulo" CssClass="btn btn-primary" Text="Agregar al carrito" CommandArgument='<%#Eval("Codigo") %>' 
-                        CommandName="articuloSeleccionado" runat="server" OnClick="btnAgregarArticulo_Click" />
                     </div>
                 </ItemTemplate>
             </asp:Repeater>
             <asp:Button ID="btnComprar" CssClass="btn btn-primary" Text="Finalizar compra" runat="server" OnClick="btnComprar_Click" />
-        </div>
+        </section>
     </form>
 </body>
 </html>

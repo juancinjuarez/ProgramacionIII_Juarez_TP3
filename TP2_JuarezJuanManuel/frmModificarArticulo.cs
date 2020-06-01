@@ -55,7 +55,7 @@ namespace TP2_JuarezJuanManuel
                 articulo.Marca = (MarcaDominio)cbxMarca.SelectedItem;
                 articulo.Categoria = (CategoriaDominio)cbxCategoria.SelectedItem;
                 articulo.ImagenURL = txtImagen.Text.Trim();
-                articulo.Precio = (decimal)double.Parse(txtPrecio.Text);
+                articulo.Precio = (float)double.Parse(txtPrecio.Text);
 
                 negocio.modificar(articulo);
 

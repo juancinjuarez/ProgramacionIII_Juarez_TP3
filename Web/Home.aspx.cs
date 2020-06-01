@@ -15,6 +15,7 @@ namespace Web
         public Carrito car = new Carrito();
         protected void Page_Load(object sender, EventArgs e)
         {
+
             if(Session[Session.SessionID + "enviarArticulo"] != null)
             {
                 car = (Carrito)Session[Session.SessionID + "enviarArticulo"];
@@ -27,7 +28,7 @@ namespace Web
                 articulosRepeater.DataBind();
             }
         }
-        //Agrega articulo al carrito
+        //Agrega articulo al carrito    
         protected void btnAgregarArticulo_Click(object sender, EventArgs e)
         {
             //Creo un nuevo articulo negocio

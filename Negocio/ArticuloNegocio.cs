@@ -39,7 +39,7 @@ namespace Negocio
                     aux.Nombre = (string)lector["Nombre"];
                     aux.Descripcion = (string)lector["Descripcion"];
                     aux.ImagenURL = (string)lector[4];
-                    aux.Precio = (decimal)double.Parse(lector["Precio"].ToString());
+                    aux.Precio = (float)double.Parse(lector["Precio"].ToString());
                     aux.Categoria.Descripcion = (string)lector[6];
                     aux.Marca.Descripcion = (string)lector[7];
                     listado.Add(aux);
@@ -113,7 +113,7 @@ namespace Negocio
                     articulo.Nombre = lector.GetString(2);
                     articulo.Descripcion = lector.GetString(3);
                     articulo.ImagenURL = lector.GetString(6);
-                    articulo.Precio = (decimal)(float)lector.GetDecimal(7);
+                    articulo.Precio = (float)lector.GetDecimal(7);
                 }
                 return articulo;
             }
@@ -221,7 +221,7 @@ namespace Negocio
                     aux.Nombre = (string)lector["Nombre"];
                     aux.Descripcion = (string)lector["Descripcion"];
                     aux.ImagenURL = (string)lector[4];
-                    aux.Precio = (decimal)double.Parse(lector["Precio"].ToString());
+                    aux.Precio = (float)double.Parse(lector["Precio"].ToString());
                     aux.Categoria.Descripcion = (string)lector[6];
                     aux.Marca.Descripcion = (string)lector[7];
                     listado.Add(aux);
