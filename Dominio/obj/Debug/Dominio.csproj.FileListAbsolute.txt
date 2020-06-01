@@ -22,3 +22,9 @@ C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csproj
 C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.dll
 C:\Users\jmjuarez\Downloads\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.pdb
+C:\Users\jmjuarez\Desktop\TP3_Juarez2020_ Web\Dominio\bin\Debug\Dominio.dll
+C:\Users\jmjuarez\Desktop\TP3_Juarez2020_ Web\Dominio\bin\Debug\Dominio.pdb
+C:\Users\jmjuarez\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\jmjuarez\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jmjuarez\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.dll
+C:\Users\jmjuarez\Desktop\TP3_Juarez2020_ Web\Dominio\obj\Debug\Dominio.pdb

@@ -24,7 +24,8 @@
                             <p class="card-text"><%#Eval("Descripcion")%></p>
                             <p class="card-text"><%#Eval("Precio")%></p>
                         </div>
-                        <asp:Button ID="btnAgregarArticulo" CssClass="btn btn-primary" Text="Agregar al carrito" CommandArgument='<%#Eval("Codigo") %>' CommandName="articuloSeleccionado" runat="server" OnClick="btnAgregarArticulo_Click" />
+                        <asp:Button ID="btnAgregarArticulo" CssClass="btn btn-primary" Text="Agregar al carrito" CommandArgument='<%#Eval("Codigo") %>' 
+                        CommandName="articuloSeleccionado" runat="server" OnClick="btnAgregarArticulo_Click" />
                     </div>
                 </ItemTemplate>
             </asp:Repeater>

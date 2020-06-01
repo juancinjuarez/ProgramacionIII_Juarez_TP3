@@ -15,6 +15,10 @@ namespace Web
         public Carrito car = new Carrito();
         protected void Page_Load(object sender, EventArgs e)
         {
+            if(Session[Session.SessionID + "enviarArticulo"] != null)
+            {
+                car = (Carrito)Session[Session.SessionID + "enviarArticulo"];
+            }
             if (!IsPostBack)
             {
                 ArticuloNegocio articulo = new ArticuloNegocio();
